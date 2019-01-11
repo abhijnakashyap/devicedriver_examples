@@ -1,1 +1,0 @@
-cmd_/home/trident/examples/dd/ioctl/driver.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/trident/examples/dd/ioctl/driver.ko /home/trident/examples/dd/ioctl/driver.o /home/trident/examples/dd/ioctl/driver.mod.o
