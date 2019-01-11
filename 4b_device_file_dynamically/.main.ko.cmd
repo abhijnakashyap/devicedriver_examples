@@ -1,1 +1,0 @@
-cmd_/home/trident/examples/dd/device_file_dynamically/main.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/trident/examples/dd/device_file_dynamically/main.ko /home/trident/examples/dd/device_file_dynamically/main.o /home/trident/examples/dd/device_file_dynamically/main.mod.o
