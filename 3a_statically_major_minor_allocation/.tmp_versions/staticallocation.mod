@@ -1,0 +1,2 @@
+/home/trident/examples/dd/statically_major_minor_allocation/staticallocation.ko
+/home/trident/examples/dd/statically_major_minor_allocation/staticallocation.o

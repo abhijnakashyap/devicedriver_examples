@@ -1,0 +1,1 @@
+cmd_/home/trident/examples/dd/pass_arguments_to_modules/hello_world_module.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/trident/examples/dd/pass_arguments_to_modules/hello_world_module.ko /home/trident/examples/dd/pass_arguments_to_modules/hello_world_module.o /home/trident/examples/dd/pass_arguments_to_modules/hello_world_module.mod.o

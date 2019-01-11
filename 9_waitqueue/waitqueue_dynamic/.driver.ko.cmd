@@ -1,0 +1,1 @@
+cmd_/home/trident/examples/dd/waitqueue/waitqueue_dynamic/driver.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/trident/examples/dd/waitqueue/waitqueue_dynamic/driver.ko /home/trident/examples/dd/waitqueue/waitqueue_dynamic/driver.o /home/trident/examples/dd/waitqueue/waitqueue_dynamic/driver.mod.o
